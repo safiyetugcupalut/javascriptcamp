@@ -56,5 +56,3 @@ export const users = [
         type: "employee"
     }
 ]
-
-//23.05 Dersteyiz
